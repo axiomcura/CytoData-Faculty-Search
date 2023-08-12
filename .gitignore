@@ -1,3 +1,5 @@
 *.csv
 *.csv.gz
 NIH_faculty_search.egg-info
+data/RePORTER/
+*.DS_Store
